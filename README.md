@@ -1,6 +1,8 @@
 ### Hi there 👋
 this is tyler
-"https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"
+
+### Availiale Skills 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <!--
 **tyler-0331/tyler-0331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
